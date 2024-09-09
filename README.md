@@ -8,3 +8,10 @@
 [Тест-кейсы для корзины и оплаты](https://github.com/user-attachments/files/16923257/G8-cart_order_TC.pdf)
 
 [*Тест-кейсы для каталога, регистрации и авторизации ](https://github.com/user-attachments/files/16923263/G8-r_a_o_TC.pdf)  **не получилось скачать все функции вместе...может, эти сюда и не нужны 
+
+Задание 12. Тестируем модули корзины, оплаты и оформления заказов
+
+[Отчеты о дефекте в таблице](https://github.com/user-attachments/files/16930997/Issues.xlsx)
+
+
+[Результаты тестового прогона из QASЕ](https://github.com/user-attachments/files/16930989/G8-Express%2Brun%2B2024_09_09.pdf)
