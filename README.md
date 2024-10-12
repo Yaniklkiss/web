@@ -15,3 +15,6 @@
 
 
 [Результаты тестового прогона из QASЕ](https://github.com/user-attachments/files/16930989/G8-Express%2Brun%2B2024_09_09.pdf)
+
+
+[Перехват и изменение трафика](https://drive.google.com/file/d/18xtZrIm1Bb8N_8UDmkYM66MWZ3aFbb-G/view?usp=sharing)
